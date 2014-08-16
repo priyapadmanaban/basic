@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3312918357">
+    <data-source source="LOCAL" name="Rails basic: development" uuid="c79ee63b-6e4b-44cc-921e-10023c0bad04">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:basic_development</jdbc-url>
+      <user-name>basic</user-name>
+      <user-password>dfc7dfd3dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails basic: test" uuid="eaa2f42f-5c5f-4612-9f61-4e773665c512">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:basic_test</jdbc-url>
+      <user-name>basic</user-name>
+      <user-password>dfc7dfd3dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails basic: production" uuid="36996464-e7d5-40ee-938b-6125ea2f767f">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:basic_production</jdbc-url>
+      <user-name>basic</user-name>
+      <user-password>dfc7dfd3dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
